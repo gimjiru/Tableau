@@ -1,2 +1,2 @@
 # Tableau
-รวมงานสำหรับทำ Tanleau
+รวมงานสำหรับทำ Tableau
